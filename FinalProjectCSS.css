@@ -1,0 +1,62 @@
+body {
+	background-color: rgb(225, 225, 225);
+	padding-top: 20px;
+}
+img {
+	margin-left: 15%;
+}
+.navbar {
+	padding-bottom: 20px;
+	background-color: rgb(50, 50, 50)
+}
+.Welcome {
+	padding-top: 60px;
+	background-color: red
+}
+h1 {
+	color: white;
+    text-align: center;
+}
+.Explanation-Title {
+	text-align: center;
+	position: relative;
+	top: 130px;
+}
+.Explanation-Paragraph {
+	text-align: center;
+	padding-left: 50px;
+	padding-right: 50px;
+	position: relative;
+	top: 150px;
+}
+.btn {
+	position: relative;
+	top: 50px;
+	background-color: red;
+	color: white;
+}
+.Footer {
+	background-color: rgb(50, 50, 50);
+	height: 400px;
+	width: 100%;
+	position: relative;
+	top: 800px;
+}
+.Red-Box {
+	background-color: red;
+	min-height: 500px;
+	max-height: 1000px;
+	width: 80%;
+	margin: 0 auto;
+	position: relative;
+	top: -10px;
+}
+.Warning-Text {
+	width: 80%;
+	margin: 0 auto;
+	position: relative;
+	top: 100px;
+}
+.Fox-News-btn {
+	padding-top: 110px;
+	margin-left: 45%;
